@@ -1,5 +1,5 @@
 # A hotel reservation application that allows customers to find and book a hotel room. 
-Introduction:
+#### Introduction:
 This is a Java application that implements a simple hotel reservation system. The system provides a command-line interface for users to find and book available rooms, view their reservations, create customer accounts, and access an admin menu.
 
 Classes and Interfaces:
