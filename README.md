@@ -2,7 +2,7 @@
 ### Introduction:
 This is a Java application for a hotel reservation system that offers a command-line interface for users. The system allows users to find and book available rooms, view reservations, create customer accounts, and access admin menu. The main components of the application are CustomerService, MainMenu, AdminResource, HotelResource, Customer, FreeRoom, IRoom, Reservation, Room, and RoomType. 
 
-### The major components of the Hotel Reservation Application will consist of the following:
+### The major components of the Hotel Reservation Application consists of the following:
 #### 1. CLI 
 - For the User Interface.
 #### 2. Java code.
