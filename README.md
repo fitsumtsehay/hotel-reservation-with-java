@@ -1,6 +1,7 @@
 ## A hotel reservation application that allows customers to find and book a hotel room. 
 ### Introduction:
-This is a Java application that implements a simple hotel reservation system. The system provides a command-line interface for users to find and book available rooms, view their reservations, create customer accounts, and access an admin menu.
+This is a Java application for a hotel reservation system that offers a command-line interface for users. The system allows users to find and book available rooms, view reservations, create customer accounts, and access admin menu. The main components of the application are CustomerService, MainMenu, AdminResource, HotelResource, Customer, FreeRoom, IRoom, Reservation, Room, and RoomType. 
+
 ### Classes and Interfaces:
 #### Customer:
 This class contains the details of a customer, including their first name, last name, and email. The constructor of this class checks whether the email address provided is in a valid format using regular expressions.
