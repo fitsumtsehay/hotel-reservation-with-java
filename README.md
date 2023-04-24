@@ -6,9 +6,9 @@ This is a Java application for a hotel reservation system that offers a command-
 #### 1. CLI 
 - For the User Interface.
 #### 2. Java code.
-- The second main component is the Java code itself—this is where we add our business logic for the app.
+- This is the Java code for the business logic for the app.
 #### 3. Java collections.
-- Finally, Java collections has been for in-memory storage of the data we need for the app, such as the users' names, room availability, and so on
+- Java collections has been used for in-memory storage of the data, such as the users' names, room availability, and so on.
 
 ### Application Architecture
 The app will be separated into the following layers:
