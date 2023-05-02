@@ -6,7 +6,7 @@ This is a Java application for a hotel reservation system that offers a command-
 #### 1. CLI 
 - For the User Interface.
 #### 2. Java code.
-- This is the Java code for the business logic for the app.
+- This is the Java code for the business logic of the app.
 #### 3. Java collections.
 - Java collections has been used for in-memory storage of the data, such as the users' names, room availability, and so on.
 
@@ -16,7 +16,7 @@ The app will be separated into the following layers:
 #### 1. User interface (UI)
 - Including a main menu for the users who want to book a room, and an admin menu for administrative functions.
 #### 2. Resources
-- Will act as our Application Programming Interface (API) to the UI.
+- Will act as Application Programming Interface (API) to the UI.
 #### 3. Services
 - Will communicate with  resources, and each other, to build the business logic necessary to provide feedback to the UI.
 #### 4. Data models
